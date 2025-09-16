@@ -1,30 +1,49 @@
-
 criaCartao(
-    'Qual é a capital da Itália?',
-    'pergunta',
-    'resposta'
+    'Conhecimentos Gerais',
+    'Qual é o maior planeta do nosso sistema solar?',
+    'Júpiter'
 )
+ criaCartao(
+    'Conhecimentos Gerais',
+    'Qual é o animal terrestre mais rápido?',
+    'O guepardo'
 
-criaCartao(
-    'Qual é o maior mamífero terrestre?',
-    'pergunta',
-    'resposta'
-)
+    criaCartao(
+    'Conhecimentos Gerais',
+    'Qual é a capital do Japão?',
+    'Tóquio'
 
-criaCartao(
-    'Qual cientista formulou a teoria da relatividade?',
-    'pergunta',
-    'resposta'
-)
+    criaCartao(
+    'Conhecimentos Gerais',
+    'Quantos ossos tem um esqueleto humano adulto?',
+    '206 ossos'
 
-criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
-)
+    criaCartao(
+    'Conhecimentos Gerais',
+    'Quem pintou a Mona Lisa?',
+    'Leonardo da Vinci'
 
-criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
-)
+    criaCartao(
+    'Conhecimentos Gerais',
+    'Qual é o elemento químico mais abundante no universo?',
+    'Hidrogênio'
+
+    criaCartao(
+    'Conhecimentos Gerais',
+    'Qual é o oceano mais profundo da Terra?',
+    'Oceano Pacífico'
+
+    criaCartao(
+    'Conhecimentos Gerais',
+    'Qual é a maior pirâmide do mundo?',
+    'A Grande Pirâmide de Gizé, no Egito'
+
+    criaCartao(
+    'Conhecimentos Gerais',
+    'Qual é o metal mais caro do mundo?',
+    'Ródio'
+
+    criaCartao(
+    'Conhecimentos Gerais',
+    'Onde fica a Grande Barreira de Coral?',
+    'Na costa da Austrália'
