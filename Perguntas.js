@@ -6,44 +6,44 @@ criaCartao(
  criaCartao(
     'Conhecimentos Gerais',
     'Qual é o animal terrestre mais rápido?',
-    'O guepardo'
+    'O guepardo')
 
     criaCartao(
     'Conhecimentos Gerais',
     'Qual é a capital do Japão?',
-    'Tóquio'
+    'Tóquio')
 
     criaCartao(
     'Conhecimentos Gerais',
     'Quantos ossos tem um esqueleto humano adulto?',
-    '206 ossos'
+    '206 ossos')
 
     criaCartao(
     'Conhecimentos Gerais',
     'Quem pintou a Mona Lisa?',
-    'Leonardo da Vinci'
+    'Leonardo da Vinci')
 
     criaCartao(
     'Conhecimentos Gerais',
     'Qual é o elemento químico mais abundante no universo?',
-    'Hidrogênio'
+    'Hidrogênio')
 
     criaCartao(
     'Conhecimentos Gerais',
     'Qual é o oceano mais profundo da Terra?',
-    'Oceano Pacífico'
+    'Oceano Pacífico')
 
     criaCartao(
     'Conhecimentos Gerais',
     'Qual é a maior pirâmide do mundo?',
-    'A Grande Pirâmide de Gizé, no Egito'
+    'A Grande Pirâmide de Gizé, no Egito')
 
     criaCartao(
     'Conhecimentos Gerais',
     'Qual é o metal mais caro do mundo?',
-    'Ródio'
+    'Ródio')
 
     criaCartao(
     'Conhecimentos Gerais',
     'Onde fica a Grande Barreira de Coral?',
-    'Na costa da Austrália'
+    'Na costa da Austrália')
